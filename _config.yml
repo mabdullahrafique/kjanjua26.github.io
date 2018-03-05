@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Talha Paracha
+  name: Kamran Janjua
   avatar: my-image.jpg
-  bio: "Passionate programmer, Tech geek & Design enthusiast."
-  email: 14besemparacha@seecs.edu.pk
-  disqus-shortname: talhaparacha
+  bio: "Deep Learning Researcher, Avid Reader and Passionate Cook; and I am not sure about the first two."
+  email: mjanjua.bscs16seecs@seecs.edu.pk
+  disqus-shortname: 
   twitter: #username
-  facebook: Paracha.Talha
+  facebook: kamranrudeboy
   google:
     plus: #username
-    analytics: UA-69948840-1
+    analytics: 
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: "kjanjua26" #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: "kjanjua26" #username
   xing: #username
   instagram: #username
   lastfm: #username
