@@ -1,18 +1,11 @@
 ---
-title: "Twitter Sentiment Analysis"
 layout: post
-date: 2017-09-02 1:42
-image: ../images/Love.png
-tag:
-- sentimentanalysis
-- keras
-- rnns
-- python
-star: false
-category: blog
-author: kamran
-description: Training sentiment analysis model on tweets.
+title: Twitter Sentiment Analysis
+modified: 2017-09-02
+comments: true
+tags: [blog, deep learning, keras]
 ---
+
 # Introduction
 With the evolution of deep learning, pretty much every thing has seen drastic change in its functionality. Processes catered by rudimentary computer vision techniques were usually for specialized tasks, were slow and dependent on something or the other. However, due to Deep Learning the results of all those tasks are now much more accurate, the models now generalize, are fast and independent. 
 
@@ -46,11 +39,3 @@ The dataset is also given the repo.
 
 # Output
 We finally predict the results and graph the output. The following graph is of the keyword 'Love', the output shows that the model works fine. 
-{% capture fig_img %}
-![Graph](../assets/images/Love.png)
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Graph of keyword 'Love'.</figcaption>
-</figure>
