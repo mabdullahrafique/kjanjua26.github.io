@@ -1,5 +1,5 @@
 ---
-layout: publication-index
+layout: publications
 title: All Publications
 excerpt: "A List of Publications"
 ---
